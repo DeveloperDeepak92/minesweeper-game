@@ -1,0 +1,13 @@
+.game-card {
+  max-width: 600px;
+}
+
+table,
+  td {
+    border: 1px solid grey;
+    border-collapse: collapse;
+  }
+  td {
+    width:32px;
+    height:32px;
+  }
